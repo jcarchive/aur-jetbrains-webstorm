@@ -1,0 +1,17 @@
+[Desktop Entry]
+Type=Application
+Version=2021.2.3
+
+Name=WebStorm
+
+Icon=/usr/share/jetbrains-webstorm/bin/webstorm.png
+Comment=IDE for javascript related technologies
+Keywords=development;web;ide;js;javascript;
+Categories=Development;IDE;
+
+Terminal=false
+StartupNotify=true
+StartupWMClass=jetbrains-webstorm
+X-MultipleArgs=false
+Exec=/usr/share/jetbrains-webstorm/bin/webstorm.sh
+
