@@ -1,5 +1,5 @@
 # AUR package for Jetbrains - Webstorm
-This repo contains an Arch User Repository package for Azure Functions Core Tools following the next standard for the installation:
+This repo contains an Arch User Repository package for Jetbrains - Webstorm following the next standard for the installation:
 
 1. App files directory: `/usr/share/jetbrains-webstorm`
 2. Executable `webstorm` directory: `/usr/bin/webstorm`
